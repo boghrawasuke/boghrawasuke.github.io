@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://boghrawasuke.github.io/sitemap.xml
